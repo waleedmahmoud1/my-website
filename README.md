@@ -2113,22 +2113,7 @@ padding-bottom: 20px;
 
             <body>
 
-                <!-- قسم التواصل -->
-                <section class="contact-section">
-                    <h2>Contact Me</h2>
-                    <p>
-                        If you're looking for a digital marketing specialist to achieve tangible results for your project, don't hesitate to contact me. I'm here to help you achieve your marketing goals in the best possible way.
-                    </p>
-                    <!-- Contact Buttons -->
-                    <div class="contact-buttons">
-                        <a href="https://wa.me/970597694135" class="whatsapp" target="_blank">
-                            <i class="fab fa-whatsapp"></i> Contact via WhatsApp
-                        </a>
-                        <a href="mailto:waleedabohaya12@gmail.com" class="email">
-                            <i class="fas fa-envelope"></i> Contact via Email
-                        </a>
-                    </div>
-                </section>
+                <!-- قسم التواصل -
 
             </body>
 
